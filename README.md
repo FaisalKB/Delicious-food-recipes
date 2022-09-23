@@ -1,7 +1,9 @@
 # Delicious Food Recipes CRUD App!
-![app main page](./images/main-page.jpg)
+![app main page](./images/recipe-app-header.jpg)
 
 ## A demonstration of advanced React development in the form of a recipe tracking app
+
+![app main page](./images/main-page.jpg)
 
 A CRUD application allows a user to create, read, update or delete selected data. For this project, I built the interface of a food recipe CRUD app. The app will allow a user to add new recipes, display a list of recipes and delete a recipe from the list by clicking a delete button. This project is designed to demonstrate my ability to work with rendering and state management using React, including meeting objectives such as:
 
